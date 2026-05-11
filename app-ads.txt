@@ -1,6 +1,5 @@
 google.com, pub-6152095007442373, DIRECT, f08c47fec0942fa0
 unity3d.com, 6099340, DIRECT, c4ca4238a0b92382
-inmobi.com, 895a26a29fed4b5aa25660e26c82cee5, DIRECT, fec12066804662d5
 inmobi.com, 4169b08223cc4638acf4d0c25f452f59, DIRECT, 83e75a7ae333ca9d
 mintegral.com, 10003, RESELLER
 thunder-monetize.com, 3905806597, RESELLER
