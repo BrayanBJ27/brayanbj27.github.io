@@ -117,11 +117,18 @@ smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 sharethrough.com, 4194, RESELLER, 060d053dcf45cbf3
-# --- PANDADEV MEGA-BIDDING BLOCK ---
+# Mintegral
 mintegral.com, pub-6152095007442373, DIRECT, 10003
+# Chocolate Platform
 chocolateplatform.com, pub-6152095007442373, DIRECT, 3905806597
+# Fluct
 fluct.jp, pub-6152095007442373, DIRECT, 10001
+# Media.net
 media.net, pub-6152095007442373, DIRECT, 12345
+# Mobfox
 mobfox.com, pub-6152095007442373, DIRECT, 5135082
+# Mobilefuse
 mobilefuse.com, pub-6152095007442373, DIRECT, 9724
-openx.com, pub-6152095007442373, DIRECT, 6a698e1038f5b707
+# Openx
+openx.com, 566079400, DIRECT, 6a698e2ec38604c6
+openx.com, 566079400, RESELLER, 6a698e2ec38604c6
